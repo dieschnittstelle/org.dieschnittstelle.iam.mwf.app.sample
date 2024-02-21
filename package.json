@@ -1,5 +1,5 @@
 {
-  "name": "org.dieschnittstelle.iam.mwf.app.skeleton.test1priv",
+  "name": "org.dieschnittstelle.iam.mwf.app.sample",
   "version": "0.1.0",
   "description": "",
   "main": "src/js/Main.js",
